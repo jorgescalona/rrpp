@@ -55,4 +55,4 @@ Como Comunidad del Software Libre somos parte interesada y provista por la Ley O
 
 Informar a la CONATI de la posible injección de Adware/Malware en su sitio web.
 
-Actualmente, cada página del sitio web de la CONATI sufre un retraso en su carga dado que hace requerimientos a un posible dominio de Adware/Malware (top-australia.com) el cual probablemente haya sido injectado en una librería JS corrupta. La CONATI debe tomar las medidas correctiva necesarias a la brevedad posible.
+Actualmente, cada página del sitio web, de la CONATI sufre un retraso en su carga dado que hace requerimientos a un posible dominio de Adware/Malware (top-australia.com) el cual probablemente haya sido injectado en una librería JS corrupta. La CONATI debe tomar las medidas correctiva necesarias a la brevedad posible.
